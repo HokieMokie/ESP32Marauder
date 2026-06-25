@@ -22,7 +22,7 @@
 #endif
 
 //#include <WiFi.h>
-#include <ESP32Ping.h>
+//#include <ESP32Ping.h>
 #include "EvilPortal.h"
 #include <math.h>
 #include "esp_wifi.h"
